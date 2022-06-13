@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Matin-M/matin.us/static/css/main.073c9b0a.css",
+    "main.js": "/Matin-M/matin.us/static/js/main.11181d64.js",
+    "static/js/787.bcd9e13f.chunk.js": "/Matin-M/matin.us/static/js/787.bcd9e13f.chunk.js",
+    "static/media/logo.svg": "/Matin-M/matin.us/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Matin-M/matin.us/index.html",
+    "main.073c9b0a.css.map": "/Matin-M/matin.us/static/css/main.073c9b0a.css.map",
+    "main.11181d64.js.map": "/Matin-M/matin.us/static/js/main.11181d64.js.map",
+    "787.bcd9e13f.chunk.js.map": "/Matin-M/matin.us/static/js/787.bcd9e13f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.11181d64.js"
+  ]
+}
